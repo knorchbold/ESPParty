@@ -1,10 +1,11 @@
 # ESPParty
 Little arduino projects for ESP8266 and ESP32. Mostly party lights.
 
-
 ## Projects
 ### espdmx
 A simple arduino sketch to use WS2812 led strips with an ESP8266 or ESP32 via E1.31 DMX over Ethernet
+### Relais
+A simple arduino sketch to control solid state relais with an ESP via  E1.31 DMX over Ethernet.
 
 ## Dependencies
 Almost the same everywhere, so I only list them once here
